@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\RobotComp.ru\\Desktop\\TeamSborka13\\11_PrismaticSponka\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{94E484F8-D41A-47A7-8B9D-7532DDCEFC59}|11_PrismaticSponka\\11_PrismaticSponka.vcxproj|C:\\Users\\RobotComp.ru\\Desktop\\TeamSborka13\\11_PrismaticSponka\\11_PrismaticSponka\\dllmain.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{94E484F8-D41A-47A7-8B9D-7532DDCEFC59}|11_PrismaticSponka\\11_PrismaticSponka.vcxproj|solutionrelative:11_PrismaticSponka\\dllmain.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 383,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "dllmain.cpp",
+              "DocumentMoniker": "C:\\Users\\RobotComp.ru\\Desktop\\TeamSborka13\\11_PrismaticSponka\\11_PrismaticSponka\\dllmain.cpp",
+              "RelativeDocumentMoniker": "11_PrismaticSponka\\dllmain.cpp",
+              "ToolTip": "C:\\Users\\RobotComp.ru\\Desktop\\TeamSborka13\\11_PrismaticSponka\\11_PrismaticSponka\\dllmain.cpp",
+              "RelativeToolTip": "11_PrismaticSponka\\dllmain.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-14T18:32:44.643Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

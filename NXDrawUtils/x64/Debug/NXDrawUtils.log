@@ -1,0 +1,6 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(531,5): warning MSB8028: промежуточный каталог (x64\Debug\) содержит файлы, которые используются совместно с другим проектом (Shayba_20L_65G_013_GOST_6402.vcxproj).  Это может привести к ошибкам очистки и перестроения.
+  pch.cpp
+  dllmain.cpp
+  LINK : не найден или не выполнена сборка C:\Users\RobotComp.ru\Desktop\TeamSborka13\11_PrismaticSponka\x64\Debug\NXDrawUtils.dll при последней инкрементной компоновке; выполняется полная компоновка
+     Создается библиотека C:\Users\RobotComp.ru\Desktop\TeamSborka13\11_PrismaticSponka\x64\Debug\NXDrawUtils.lib и объект C:\Users\RobotComp.ru\Desktop\TeamSborka13\11_PrismaticSponka\x64\Debug\NXDrawUtils.exp
+  NXDrawUtils.vcxproj -> C:\Users\RobotComp.ru\Desktop\TeamSborka13\11_PrismaticSponka\x64\Debug\NXDrawUtils.dll
