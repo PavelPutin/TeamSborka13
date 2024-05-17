@@ -1,0 +1,4 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(531,5): warning MSB8028: промежуточный каталог (x64\Debug\) содержит файлы, которые используются совместно с другим проектом (plastina_01_002.vcxproj).  Это может привести к ошибкам очистки и перестроения.
+  LINK : не найден или не выполнена сборка C:\Users\miha4\Desktop\nx_atta2\krishka_3\x64\Debug\krishka_3.dll при последней инкрементной компоновке; выполняется полная компоновка
+C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppCommon.targets(1134,5): error MSB6006: "link.exe" завершилась с кодом 1104.
+LINK : fatal error LNK1104: не удается открыть файл "C:\Users\miha4\Desktop\nx_atta2\krishka_3\Debug\NXDrawUtils.lib"
