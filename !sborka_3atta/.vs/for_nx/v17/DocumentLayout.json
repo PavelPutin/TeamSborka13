@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user\\source\\repos\\!sborka_3atta\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E5B92CF8-10FE-4DD3-B44D-3AB7927A05F7}|for_nx.vcxproj|C:\\Users\\user\\source\\repos\\!sborka_3atta\\for_nx.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E5B92CF8-10FE-4DD3-B44D-3AB7927A05F7}|for_nx.vcxproj|solutionrelative:for_nx.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "for_nx.cpp",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\!sborka_3atta\\for_nx.cpp",
+              "RelativeDocumentMoniker": "for_nx.cpp",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\!sborka_3atta\\for_nx.cpp",
+              "RelativeToolTip": "for_nx.cpp",
+              "ViewState": "AQIAAGwBAAAAAAAAAAAswHUBAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-03-01T09:27:22.253Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
