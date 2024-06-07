@@ -1,0 +1,3 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(531,5): warning MSB8028: промежуточный каталог (x64\Debug\) содержит файлы, которые используются совместно с другим проектом (Shayba_20L_65G_013_GOST_6402.vcxproj).  Это может привести к ошибкам очистки и перестроения.
+  dllmain.cpp
+  11_PrismaticSponka.vcxproj -> C:\Users\RobotComp.ru\Desktop\TeamSborka13\11_PrismaticSponka\x64\Debug\11_PrismaticSponka.dll
