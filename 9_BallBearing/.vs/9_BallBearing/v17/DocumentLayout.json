@@ -1,0 +1,89 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\RobotComp.ru\\Desktop\\TeamSborka13\\9_BallBearing\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F4E76DA3-A3D5-4059-B24D-706A33A35960}|9_BallBearing\\9_BallBearing.vcxproj|C:\\Users\\RobotComp.ru\\Desktop\\TeamSborka13\\9_BallBearing\\9_BallBearing\\dllmain.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F4E76DA3-A3D5-4059-B24D-706A33A35960}|9_BallBearing\\9_BallBearing.vcxproj|solutionrelative:9_BallBearing\\dllmain.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D14280C3-0498-4CC4-AE3F-1E1B602A83EB}|..\\NXDrawUtils\\NXDrawUtils.vcxproj|C:\\Users\\RobotComp.ru\\Desktop\\TeamSborka13\\NXDrawUtils\\dllmain.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D14280C3-0498-4CC4-AE3F-1E1B602A83EB}|..\\NXDrawUtils\\NXDrawUtils.vcxproj|C:\\Users\\RobotComp.ru\\Desktop\\TeamSborka13\\NXDrawUtils\\NXDrawUtils.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D14280C3-0498-4CC4-AE3F-1E1B602A83EB}|..\\NXDrawUtils\\NXDrawUtils.vcxproj|C:\\Users\\RobotComp.ru\\Desktop\\TeamSborka13\\NXDrawUtils\\pch.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 383,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "pch.cpp",
+              "DocumentMoniker": "C:\\Users\\RobotComp.ru\\Desktop\\TeamSborka13\\NXDrawUtils\\pch.cpp",
+              "RelativeDocumentMoniker": "..\\NXDrawUtils\\pch.cpp",
+              "ToolTip": "C:\\Users\\RobotComp.ru\\Desktop\\TeamSborka13\\NXDrawUtils\\pch.cpp",
+              "RelativeToolTip": "..\\NXDrawUtils\\pch.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-14T17:52:41.19Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "dllmain.cpp",
+              "DocumentMoniker": "C:\\Users\\RobotComp.ru\\Desktop\\TeamSborka13\\NXDrawUtils\\dllmain.cpp",
+              "RelativeDocumentMoniker": "..\\NXDrawUtils\\dllmain.cpp",
+              "ToolTip": "C:\\Users\\RobotComp.ru\\Desktop\\TeamSborka13\\NXDrawUtils\\dllmain.cpp",
+              "RelativeToolTip": "..\\NXDrawUtils\\dllmain.cpp",
+              "ViewState": "AQIAAGkAAAAAAAAAAAAAAH8AAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-14T17:51:53.572Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "dllmain.cpp",
+              "DocumentMoniker": "C:\\Users\\RobotComp.ru\\Desktop\\TeamSborka13\\9_BallBearing\\9_BallBearing\\dllmain.cpp",
+              "RelativeDocumentMoniker": "9_BallBearing\\dllmain.cpp",
+              "ToolTip": "C:\\Users\\RobotComp.ru\\Desktop\\TeamSborka13\\9_BallBearing\\9_BallBearing\\dllmain.cpp",
+              "RelativeToolTip": "9_BallBearing\\dllmain.cpp",
+              "ViewState": "AQIAADYAAAAAAAAAAAAAAE0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-13T13:43:10.66Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "NXDrawUtils.h",
+              "DocumentMoniker": "C:\\Users\\RobotComp.ru\\Desktop\\TeamSborka13\\NXDrawUtils\\NXDrawUtils.h",
+              "RelativeDocumentMoniker": "..\\NXDrawUtils\\NXDrawUtils.h",
+              "ToolTip": "C:\\Users\\RobotComp.ru\\Desktop\\TeamSborka13\\NXDrawUtils\\NXDrawUtils.h",
+              "RelativeToolTip": "..\\NXDrawUtils\\NXDrawUtils.h",
+              "ViewState": "AQIAACcAAAAAAAAAAAAAABAAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-05-13T13:36:05.219Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
