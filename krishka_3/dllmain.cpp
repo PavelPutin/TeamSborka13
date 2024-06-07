@@ -74,3 +74,13 @@ void draw_krishka_3(double orig_x, double orig_y, double orig_z, double len, dou
     delete[] len_s;
     delete[] width_s;
 }
+
+void ufusr(char* param, int* retcode, int paramLen) {
+    UF_initialize();
+    draw_krishka_3(0, 0, 0, 20, 90);
+    UF_terminate();
+}
+
+int ufusr_ask_unload(void) {
+    return UF_UNLOAD_IMMEDIATELY;
+}

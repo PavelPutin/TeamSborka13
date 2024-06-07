@@ -1,0 +1,4 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(531,5): warning MSB8028: промежуточный каталог (x64\Debug\) содержит файлы, которые используются совместно с другим проектом (Shayba_20L_65G_013_GOST_6402.vcxproj).  Это может привести к ошибкам очистки и перестроения.
+  dllmain.cpp
+     Создается библиотека C:\Users\RobotComp.ru\Desktop\TeamSborka13\krishka_3\x64\Debug\krishka_3.lib и объект C:\Users\RobotComp.ru\Desktop\TeamSborka13\krishka_3\x64\Debug\krishka_3.exp
+  plastina_01_002.vcxproj -> C:\Users\RobotComp.ru\Desktop\TeamSborka13\krishka_3\x64\Debug\krishka_3.dll

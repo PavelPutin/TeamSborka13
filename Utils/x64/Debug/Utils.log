@@ -1,0 +1,5 @@
+﻿  pch.cpp
+  dllmain.cpp
+  LINK : не найден или не выполнена сборка C:\Users\RobotComp.ru\Desktop\TeamSborka13\krishka_3\x64\Debug\Utils.dll при последней инкрементной компоновке; выполняется полная компоновка
+     Создается библиотека C:\Users\RobotComp.ru\Desktop\TeamSborka13\krishka_3\x64\Debug\Utils.lib и объект C:\Users\RobotComp.ru\Desktop\TeamSborka13\krishka_3\x64\Debug\Utils.exp
+  Utils.vcxproj -> C:\Users\RobotComp.ru\Desktop\TeamSborka13\krishka_3\x64\Debug\Utils.dll

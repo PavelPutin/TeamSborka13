@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\RobotComp.ru\\Desktop\\TeamSborka13\\krishka_3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{47813CEC-344C-4FFD-845A-B0721157F971}|plastina_01_002.vcxproj|C:\\Users\\RobotComp.ru\\Desktop\\TeamSborka13\\krishka_3\\dllmain.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{47813CEC-344C-4FFD-845A-B0721157F971}|plastina_01_002.vcxproj|solutionrelative:dllmain.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47813CEC-344C-4FFD-845A-B0721157F971}|plastina_01_002.vcxproj|C:\\Users\\RobotComp.ru\\Desktop\\TeamSborka13\\krishka_3\\krishka_3.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{47813CEC-344C-4FFD-845A-B0721157F971}|plastina_01_002.vcxproj|solutionrelative:krishka_3.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "dllmain.cpp",
+              "DocumentMoniker": "C:\\Users\\RobotComp.ru\\Desktop\\TeamSborka13\\krishka_3\\dllmain.cpp",
+              "RelativeDocumentMoniker": "dllmain.cpp",
+              "ToolTip": "C:\\Users\\RobotComp.ru\\Desktop\\TeamSborka13\\krishka_3\\dllmain.cpp",
+              "RelativeToolTip": "dllmain.cpp",
+              "ViewState": "AQIAADMAAAAAAAAAAAAAAE4AAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-06-07T06:50:28.882Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "krishka_3.h",
+              "DocumentMoniker": "C:\\Users\\RobotComp.ru\\Desktop\\TeamSborka13\\krishka_3\\krishka_3.h",
+              "RelativeDocumentMoniker": "krishka_3.h",
+              "ToolTip": "C:\\Users\\RobotComp.ru\\Desktop\\TeamSborka13\\krishka_3\\krishka_3.h",
+              "RelativeToolTip": "krishka_3.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAABVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-06-07T06:46:12.687Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

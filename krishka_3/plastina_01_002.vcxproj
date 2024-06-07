@@ -113,13 +113,13 @@
       <ConformanceMode>true</ConformanceMode>
       <PrecompiledHeader>Use</PrecompiledHeader>
       <PrecompiledHeaderFile>pch.h</PrecompiledHeaderFile>
-      <AdditionalIncludeDirectories>C:\Users\miha4\Desktop\nx_atta2\Utils;C:\Users\miha4\Desktop\nx_atta2\NXDrawUtils;C:\Program Files\Siemens\NX 10.0\UGOPENPP;C:\Program Files\Siemens\NX 10.0\UGOPEN;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <AdditionalIncludeDirectories>C:\Users\RobotComp.ru\Desktop\TeamSborka13\Utils;C:\Users\RobotComp.ru\Desktop\TeamSborka13\NXDrawUtils;C:\Program Files\Siemens\NX 10.0\UGOPENPP;C:\Program Files\Siemens\NX 10.0\UGOPEN;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
     </ClCompile>
     <Link>
       <SubSystem>Windows</SubSystem>
       <GenerateDebugInformation>true</GenerateDebugInformation>
       <EnableUAC>false</EnableUAC>
-      <AdditionalLibraryDirectories>C:\Program Files\Siemens\NX 10.0\UGOPEN;C:\Users\miha4\Desktop\nx_atta2\NXDrawUtils;C:\Users\miha4\Desktop\nx_atta2\Utils;%(AdditionalLibraryDirectories)</AdditionalLibraryDirectories>
+      <AdditionalLibraryDirectories>C:\Program Files\Siemens\NX 10.0\UGOPEN;C:\Users\RobotComp.ru\Desktop\TeamSborka13\Utils;C:\Users\RobotComp.ru\Desktop\TeamSborka13\NXDrawUtils;%(AdditionalLibraryDirectories)</AdditionalLibraryDirectories>
       <AdditionalDependencies>libufun.lib;libnxopencpp.lib;libugopenint.lib;libnxopenuicpp.lib;libopenpp.lib;libopenintpp.lib;libvmathpp.lib;%(AdditionalDependencies)</AdditionalDependencies>
     </Link>
   </ItemDefinitionGroup>
