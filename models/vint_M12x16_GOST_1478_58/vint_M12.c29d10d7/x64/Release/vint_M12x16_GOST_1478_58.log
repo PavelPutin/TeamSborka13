@@ -1,0 +1,8 @@
+﻿  dllmain.cpp
+  pch.cpp
+     Creating library C:\Users\user\source\repos\vint_M12x16_GOST_1478_58\x64\Release\vint_M12x16_GOST_1478_58.lib and object C:\Users\user\source\repos\vint_M12x16_GOST_1478_58\x64\Release\vint_M12x16_GOST_1478_58.exp
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 3 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  vint_M12x16_GOST_1478_58.vcxproj -> C:\Users\user\source\repos\vint_M12x16_GOST_1478_58\x64\Release\vint_M12x16_GOST_1478_58.dll
