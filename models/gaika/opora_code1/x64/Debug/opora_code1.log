@@ -1,0 +1,4 @@
+﻿S:\VisualStudio\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(531,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (gaika_m20_gost_5927_70.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  opora_code1.cpp
+     Creating library S:\nx_models\gaika\x64\Debug\opora_code1.lib and object S:\nx_models\gaika\x64\Debug\opora_code1.exp
+  opora_code1.vcxproj -> S:\nx_models\gaika\x64\Debug\opora_code1.dll

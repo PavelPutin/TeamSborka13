@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project>
+  <ProjectOutputs>
+    <ProjectOutput>
+      <FullPath>S:\nx_models\gaika\x64\Debug\NXDrawUtils.dll</FullPath>
+    </ProjectOutput>
+    <ProjectOutput>
+      <FullPath>S:\nx_models\gaika\x64\Debug\gaika_m20_gost_5915_70.dll</FullPath>
+    </ProjectOutput>
+  </ProjectOutputs>
+  <ContentFiles />
+  <SatelliteDlls />
+  <NonRecipeFileRefs />
+</Project>

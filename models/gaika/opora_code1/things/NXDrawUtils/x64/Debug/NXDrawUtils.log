@@ -1,0 +1,5 @@
+﻿S:\VisualStudio\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(531,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (Shayba_20L_65G_013_GOST_6402.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  pch.cpp
+  dllmain.cpp
+     Creating library S:\nx_models\gaika\x64\Debug\NXDrawUtils.lib and object S:\nx_models\gaika\x64\Debug\NXDrawUtils.exp
+  NXDrawUtils.vcxproj -> S:\nx_models\gaika\x64\Debug\NXDrawUtils.dll
